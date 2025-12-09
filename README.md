@@ -1,18 +1,19 @@
 # HabitTracker
-A python project to create, view and maintain daily habits.
+A Python-based web application designed to help users create, track, and maintain daily habits.
+The project is built with Flask and Jinja2 on the backend, features a clean HTML/CSS frontend, and uses MongoDB for persistent data storage.
 
-In this Project, I have made a website that allows you to create and track daily habits. I have build it using python, flask, jinja2 for the backend and html, css for the frontend and mongodb as the database.
+Users can add new habits, update their daily progress, and visualize how consistently they maintain their routines — making habit-building simple, structured, and motivating.
 
-Live Link: https://habittracker-ij8z.onrender.com/
+<!-- Live Link: https://habittracker-ij8z.onrender.com/ -->
 
-# Features
+## Features
 - View habits daywise
 - Create new habits
 - Mark habits as completed
 - Mark habits as incomplete
 - Delete habits
 
-# Usage
+## Usage
 Here's how you can use the Project:
 1. Install pyenv-win
 2. Unrestrict the execution-policy for pyenv
@@ -24,10 +25,5 @@ Here's how you can use the Project:
 8. Create a .env file and add the following property: MONGODB_URI = "<path for your cluster>"
 9. Run the application using "flask run"
   
-# About
-I developed this project to demonstrate my application development skills. As a software developer, I wanted to explore python api concepts and showcase my skills in web development. I hope this project serves as a demonstration of my capabilities and reflects my passion for IT industry.
-
-# Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to me at ankitasharma.281993@gmail.com.
-
-Thank you for your interest in HabitTracker. I hope you find it interesting and valuable.
+## Purpose
+I developed this project to strengthen my application development skills and deepen my understanding of Python-based APIs and web technologies. As a software developer, I wanted to explore practical backend–frontend integration while refining my overall development workflow. I hope this project not only showcases my work but also inspires you to explore, learn, and build something of your own.

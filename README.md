@@ -6,6 +6,11 @@ Users can add new habits, update their daily progress, and visualize how consist
 
 <!-- Live Link: https://habittracker-ij8z.onrender.com/ -->
 
+## Screenshots
+<img width="450" height="250" alt="habittracker" src="https://github.com/user-attachments/assets/d3233e16-3fd7-444e-8229-67afd26e0d62" />
+<img width="450" height="250" alt="Screenshot 2025-12-09 172905" src="https://github.com/user-attachments/assets/644b9b90-042e-4c8a-bed7-fc18ee434265" />
+<img width="450" height="250" alt="Screenshot 2025-12-09 172832" src="https://github.com/user-attachments/assets/764f3940-f86f-4465-82e8-a2ac02c4c307" />
+
 ## Features
 - View habits daywise
 - Create new habits
